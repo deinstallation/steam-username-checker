@@ -1,6 +1,6 @@
 # Date: 12/18/2020
 # Author: Enes
-# Description: Tiktok Username Checker
+# Description: Steam Username Checker
 
 from colorama import Fore, init
 from datetime import datetime
