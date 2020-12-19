@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 This was merely a speedrun to demonstrate how username checkers work.
 
-This is illegal if you use this without the consent of the owners (in this case, the TikTok team).
+This is illegal if you use this without the consent of the owners (in this case, the Steam / Valve team).
 
 The software designed to perform website security testing.
 
